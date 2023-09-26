@@ -1,3 +1,7 @@
+#Кол-во разработчиков – 1
+#Кол-во веток – 1
+#Регулярность использования – 20
+#Кол-во копирований – 32
 import spacy
 from gensim.corpora import Dictionary
 from gensim.models.tfidfmodel import TfidfModel
